@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15e919bb-8b88-4cef-989d-f75dafad823b" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/speach" afterPath="$PROJECT_DIR$/speach.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/speach" afterPath="$PROJECT_DIR$/speach" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="it-vesna-2015-presentation.iws" />
@@ -27,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-26.5">
-              <caret line="214" column="90" selection-start-line="214" selection-start-column="90" selection-end-line="214" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.7431507">
+              <caret line="295" column="59" selection-start-line="295" selection-start-column="59" selection-end-line="295" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -42,18 +42,25 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#pre#0;n#ul#0;n#div#0;n#section#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#section#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#section#23;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="speach" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/speach">
+      <file leaf-file-name="speach.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/speach.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.857142">
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
@@ -78,8 +85,9 @@
       <list>
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/speach" />
+        <option value="$PROJECT_DIR$/speach.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -377,12 +385,12 @@
       <option name="number" value="Default" />
       <updated>1429242232359</updated>
       <workItem from="1429242233588" duration="3059000" />
-      <workItem from="1429285213604" duration="5256000" />
+      <workItem from="1429285213604" duration="9137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8315000" />
+    <option name="totallyTimeSpent" value="12196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1045" extended-state="0" />
@@ -422,7 +430,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/speach">
+    <entry file="file://$PROJECT_DIR$/speach.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -444,6 +452,10 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#ul#0;n#div#0;n#section#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#section#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#23;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -463,10 +475,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/speach.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.857142">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-26.5">
-          <caret line="214" column="90" selection-start-line="214" selection-start-column="90" selection-end-line="214" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.7431507">
+          <caret line="295" column="59" selection-start-line="295" selection-start-column="59" selection-end-line="295" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -477,15 +500,11 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#section#12;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#pre#0;n#ul#0;n#div#0;n#section#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#section#14;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#17;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#18;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#20;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#23;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speach">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
